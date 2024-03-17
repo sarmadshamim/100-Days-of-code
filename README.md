@@ -7,21 +7,20 @@
 3. know about p tag and hr and br tag
 4. what is heading tag and its preference
 5. pre tag
-   <<<<<<< HEAD
 
 ### Text Formatting in html
 
 #### There is two types of comments
 
-6. single line comment
-7. multiline comment
+1. single line comment
+2. multiline comment
 
 #### HTML formatting elements:-
 
-8. strong and bold tag
-9. sup and sub tag
-10. del and mark tag
-11. i and small tag
-12. em tag
+1. strong and bold tag
+2. sup and sub tag
+3. del and mark tag
+4. i and small tag
+5. em tag
 
 #### HTML colors:-
