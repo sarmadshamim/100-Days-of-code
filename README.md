@@ -7,6 +7,7 @@
 3. know about p tag and hr and br tag
 4. what is heading tag and its preference
 5. pre tag
+   <<<<<<< HEAD
 
 ### Text Formatting in html
 
