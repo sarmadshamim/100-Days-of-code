@@ -85,3 +85,14 @@
 2. src attribute which take address of video in local server
 3. audio tag is same as video but embed video in html document
 4. we use lot of global nd local attributes for thes tags
+
+## Day 2,start learning javascript:-
+
+### Data Types
+
+1. this is divided into two categories.
+2. primitive or non-premetive.
+3. in premetive there is seven types:-
+4. String ,Number ,bigInt ,undefined ,Null ,symbol ,Boolean.
+5. non-premitives are three types :-
+6. Array , Object , Functions.
