@@ -72,3 +72,9 @@
 1. those tags define the meaning of the content theu contain
 2. ex:- navbar tag contains navbar content
 3. footer and header some examples of sementics tags
+
+### forms and input
+
+1. form tag is used to contain input elements
+2. methos attribute has get post and dialog method
+3. thers is lot type of input like password, text,email etc
