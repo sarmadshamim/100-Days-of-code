@@ -51,7 +51,7 @@
 
 1. table tag used to structure the data in tabular format
 2. tr tag used table row
-3. th tag used for heading in table
+3. th tag used for heading in tablegit add
 4. td tag used for content
 
 ## Day 2
@@ -61,3 +61,14 @@
 1. classes use to target element.major use for styling html element.to target html element. we use .classname
 2. Id is also same as classes.to target html element. we use #idname
 3. iframe tag used to embeded another document within the current html file
+
+### Meta tags
+
+1. use to specify charecter set, page description
+2. pieces of information you use to tell the search engines.
+
+### sementic tags in html
+
+1. those tags define the meaning of the content theu contain
+2. ex:- navbar tag contains navbar content
+3. footer and header some examples of sementics tags
