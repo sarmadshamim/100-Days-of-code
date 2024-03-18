@@ -53,3 +53,11 @@
 2. tr tag used table row
 3. th tag used for heading in table
 4. td tag used for content
+
+## Day 2
+
+### Classes,Id and iframe
+
+1. classes use to target element.major use for styling html element.to target html element. we use .classname
+2. Id is also same as classes.to target html element. we use #idname
+3. iframe tag used to embeded another document within the current html file
