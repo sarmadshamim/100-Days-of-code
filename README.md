@@ -78,3 +78,10 @@
 1. form tag is used to contain input elements
 2. methos attribute has get post and dialog method
 3. thers is lot type of input like password, text,email etc
+
+### learn about meadia
+
+1. video tag used to embed video
+2. src attribute which take address of video in local server
+3. audio tag is same as video but embed video in html document
+4. we use lot of global nd local attributes for thes tags
