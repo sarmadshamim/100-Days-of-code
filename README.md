@@ -96,3 +96,17 @@
 4. String ,Number ,bigInt ,undefined ,Null ,symbol ,Boolean.
 5. non-premitives are three types :-
 6. Array , Object , Functions.
+
+### variables in js
+
+1. we can define variables in 3 ways let, const for constant values or var
+2. we can define varables without using these key words
+
+### operators in js
+
+1. arithmatic operators like +,-,\,%,\*
+2. logical operators like && , ||
+3. ternary operators like ?
+4. comparision operator == or ===
+
+### String in js
