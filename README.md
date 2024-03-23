@@ -104,9 +104,9 @@
 
 ### operators in js
 
-1. arithmatic operators like +,-,\,%,\*
+1. arithmatic operators like +,-,\,%,
 2. logical operators like && , ||
 3. ternary operators like ?
 4. comparision operator == or ===
 
-### String in js
+
