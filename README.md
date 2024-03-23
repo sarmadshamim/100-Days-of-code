@@ -54,7 +54,7 @@
 3. th tag used for heading in tablegit add
 4. td tag used for content
 
-## Day 2
+## Day 3-6
 
 ### Classes,Id and iframe
 
@@ -86,7 +86,7 @@
 3. audio tag is same as video but embed video in html document
 4. we use lot of global nd local attributes for thes tags
 
-## Day 2,start learning javascript:-
+## Day 7,start learning javascript:-
 
 ### Data Types
 
@@ -109,4 +109,22 @@
 3. ternary operators like ?
 4. comparision operator == or ===
 
+## Day 8
 
+### learn about Array , Objects and Function
+
+1. metods like toString or toUpperCase
+2. then how to make Array and Objects
+3. How to print key values in object fro object.key method
+4. how to make function and how to call them.
+5. what is iife :-imediate invoked function expression
+6. how scoping concept works in javascript.
+7. learn about block scope and globall scope
+
+### statements
+
+#### conditional statements
+
+1. learn about if statement, if else statement, if else if else statement
+2. also learb about switch statement.
+3. learn the keyword break and continue.
