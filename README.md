@@ -131,5 +131,8 @@
 #### Loops 
 1. for loops
 2. while and do while
-3. 
+3. map and for each
+4. for in loop and for of loop
+5. filter
+
       
