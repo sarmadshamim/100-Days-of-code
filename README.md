@@ -109,7 +109,7 @@
 3. ternary operators like ?
 4. comparision operator == or ===
 
-## Day 8
+## Day 8 - 20
 
 ### learn about Array , Objects and Function
 
@@ -128,3 +128,8 @@
 1. learn about if statement, if else statement, if else if else statement
 2. also learb about switch statement.
 3. learn the keyword break and continue.
+#### Loops 
+1. for loops
+2. while and do while
+3. 
+      
